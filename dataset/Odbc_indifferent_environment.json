@@ -1,0 +1,16 @@
+{
+	"name": "Odbc_indifferent_environment",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Odbc2",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "OdbcTable",
+		"schema": [],
+		"typeProperties": {
+			"tableName": "XDB.CUSTOMERS"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

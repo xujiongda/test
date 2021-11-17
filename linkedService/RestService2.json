@@ -1,0 +1,14 @@
+{
+	"name": "RestService2",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "gittest",
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "http://requestbin.net/r/gc2jzvz0",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}

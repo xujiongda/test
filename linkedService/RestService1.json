@@ -1,0 +1,14 @@
+{
+	"name": "RestService1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "rest",
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "http://requestbin.net/r/ee58937v",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}

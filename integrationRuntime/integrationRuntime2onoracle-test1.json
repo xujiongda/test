@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime2onoracle-test1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
