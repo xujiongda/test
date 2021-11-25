@@ -1,0 +1,6 @@
+{
+	"name": "joeintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
